@@ -2,11 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm saurabh chaudhary</h1>
 <h3 align="center">Fueling Innovation with Code Passion</h3>
-<img align="right" alt="Coding"  width="350"  src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhchaudhary05&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhchaudhary05" /> </p>
 
+
+
 ## 💫 About Me:
+<img align="right" alt="Coding"  height="370" width="400"  src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
 - 🔭 I’m currently pursuing **B.Tech CSE From Lovely Professional University.**
 
 - 🌱 I’m currently learning **advanced algorithms, software development practices, and data analysis**
