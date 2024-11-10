@@ -1,9 +1,12 @@
 name: Generate Snake
 
 on:
+  # This trigger allows manual triggering of the workflow from the Actions tab
+  workflow_dispatch:  
+
+  # This trigger runs the workflow every 6 hours based on the cron schedule
   schedule:
     - cron: "0 */6 * * *"  # Runs every 6 hours
-  workflow_dispatch:  # Allows manual triggering of the action
 
 jobs:
   build:
