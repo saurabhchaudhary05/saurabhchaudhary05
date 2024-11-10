@@ -39,5 +39,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=saurabhchaudhary05&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-
+Snake-Eating My Contribution Graph:🐍📈
+![snake gif](https://github.com/saurabhchaudhary05/saurabhchaudhary05/blob/output/github-snake-dark.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
