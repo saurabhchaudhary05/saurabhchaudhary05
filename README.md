@@ -5,8 +5,6 @@
 -->
 Here are some ideas to get you started:
 
-### Hi there 👋
-
 🔭 I’m currently working on sharpening my Data Structures and Algorithms (DSA) skills by solving problems on LeetCode, GeeksforGeeks, and HackerRank. I'm also exploring projects in machine learning and data analysis!
 
 🌱 I’m currently learning advanced algorithms, software development practices, and data analysis. Recently, I've been diving into machine learning and database management to build a strong foundation in both theoretical and practical aspects of computer science.
