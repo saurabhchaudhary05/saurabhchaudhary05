@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me: https://www.linkedin.com/in/saur12/
 
-😄 Pronouns: He/She/They
+😄 Pronouns: He
 
 ⚡ Fun fact:  consistently learning!
 
