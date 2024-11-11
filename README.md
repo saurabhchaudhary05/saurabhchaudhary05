@@ -10,7 +10,8 @@
 
 ## 💫 About Me:
 <img align="right" alt="Coding"  height="370" width="400"  src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
-- 🔭 I’m currently pursuing **B.Tech CSE From Lovely Professional University.**
+
+ - 🔭 I’m currently pursuing **B.Tech CSE From Lovely Professional University.**
 
 - 🌱 I’m currently learning **advanced algorithms, software development practices, and data analysis**
 
